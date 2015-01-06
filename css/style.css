@@ -147,7 +147,10 @@ body {
     color: red;
 	margin-left: 20px;
 }
-
+#com_mastercard{
+    color: green;
+    float: rigth;
+}
 
 
 
