@@ -143,13 +143,9 @@ body {
 
 
 
-#com_reg{
-    color: red;
-	margin-left: 20px;
-}
-#com_mastercard{
-    color: green;
-    float: rigth;
+#id_commet_monster{
+    text-align: center;
+	font-size: 14px;
 }
 
 
